@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: FeignConsumers
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: chenguiqi
+Implementation-Vendor-Id: com.exercise
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
